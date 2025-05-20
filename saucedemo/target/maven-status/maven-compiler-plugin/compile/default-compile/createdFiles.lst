@@ -1,0 +1,4 @@
+utils\dataTestUtils.class
+baseTest\BaseTest.class
+pages\LoginPage.class
+pages\ProductCheckoutPage.class

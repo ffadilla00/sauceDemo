@@ -1,0 +1,3 @@
+driver\sleep.class
+tests\TC1_Login.class
+tests\TC2_AddToCartAndCheckout.class

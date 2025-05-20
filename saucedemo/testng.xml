@@ -1,0 +1,7 @@
+<suite name="SauceDemoSuite">
+  <test name="AllTests">
+    <packages>
+      <package name="tests"/> <!-- ini berarti: jalankan semua test di package `tests` -->
+    </packages>
+  </test>
+</suite>
